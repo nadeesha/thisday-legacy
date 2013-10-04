@@ -1,0 +1,24 @@
+{
+  "name": "thisday",
+  "version": "0.0.1",
+  "description": "thisday =======",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nadeeshacabral/thisday.git"
+  },
+  "author": "Nadeesha Cabral",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "6723fc8e4cb6c4dc9cc248a80fe723447903706e",
+  "bugs": {
+    "url": "https://github.com/nadeeshacabral/thisday/issues"
+  },
+  "dependencies": {
+    "express": "~3.4.0",
+    "jade": "~0.35.0"
+  }
+}
