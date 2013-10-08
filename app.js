@@ -8,7 +8,7 @@ var app = module.exports = express();
 
 
 /**
- * Configuration
+ * Express Configuration
  */
 
 // all environments
